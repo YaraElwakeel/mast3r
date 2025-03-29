@@ -2,3 +2,6 @@
 [submodule "dust3r"]
 	path = dust3r
 	url = git@github.com:affanzafar99/dust3r.git
+[submodule "Vision_Systems_Project"]
+	path = Vision_Systems_Project
+	url = https://github.com/affanzafar99/Vision_Systems_Project.git
